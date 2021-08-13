@@ -1,0 +1,29 @@
+[
+
+{
+    "nombre": "youColors",
+    "marca": "visa",
+    "limite": 10000
+},
+{
+    "nombre": "youGreen",
+    "marca": "visa",
+    "limite": 20000
+  },
+  {
+    "nombre": "youPlatinum",
+    "marca": "visa",
+    "limite": 30000
+  },
+  {
+    "nombre": "youGold",
+    "marca": "visa",
+    "limite": 50000
+  },
+  {
+    "nombre": "youBlack",
+    "marca": "visa",
+    "limite": 80000
+  }
+  
+]
